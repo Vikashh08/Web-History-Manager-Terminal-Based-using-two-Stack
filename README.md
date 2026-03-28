@@ -39,7 +39,8 @@ The project uses two stacks to manage history:
 ## Quick Start
 
 ### Prerequisites
-- A C++ compiler (like `g++` or `MSVC`)
+- A C++ compiler is required (see [installation guide](run_instructions.md#🛑-0-prerequisites--installation)).
+- **VS Code** (Optional) for easier development.
 
 ### Run the Project
 1.  **Compile**:
